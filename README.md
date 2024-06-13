@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/rose-de-pur-nguyen/-frontend-mentor-tip-calculator.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://rose-de-pur-nguyen.github.io/-frontend-mentor-tip-calculator/)
 
 ## My process
 
